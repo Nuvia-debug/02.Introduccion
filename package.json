@@ -1,0 +1,12 @@
+{
+    "name": "introduccion",
+    "version0": "0.2.0",
+    "description": "Introduccion",
+    "main": "app.js",
+    "author": "Nuvia Daniela Ruvalcaba Gonzalez <nuvia.ruvalcaba4573@alumnos.udg.mx>",
+    "dependencies": {
+        "exc": "^0.0.1",
+        "express": "~3.2.4",
+        "socket.io": "~0.9.14"
+    }
+}
