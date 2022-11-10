@@ -2,7 +2,7 @@
     "name": "introduccion",
     "version0": "0.2.0",
     "description": "Introduccion",
-    "main": "index.html",
+    "main": "app.js",
     "author": "Nuvia Daniela Ruvalcaba Gonzalez <nuvia.ruvalcaba4573@alumnos.udg.mx>",
     "dependencies": {
         "exc": "^0.0.1",
